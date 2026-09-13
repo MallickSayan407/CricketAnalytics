@@ -1,0 +1,286 @@
+.predictor-page {
+    padding: 32px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.predictor-header {
+    margin-bottom: 30px;
+}
+
+.predictor-eyebrow,
+.result-eyebrow {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-bottom: 8px;
+}
+
+.predictor-header h1 {
+    font-size: 36px;
+    margin: 0 0 10px;
+}
+
+.predictor-subtitle {
+    max-width: 750px;
+    font-size: 15px;
+    line-height: 1.6;
+    opacity: 0.75;
+}
+
+.predictor-grid {
+    display: grid;
+    grid-template-columns: 1fr 1.15fr;
+    gap: 24px;
+}
+
+.prediction-card,
+.prediction-result {
+    border-radius: 18px;
+    padding: 28px;
+    background: var(--card-bg, #ffffff);
+    border: 1px solid var(--border-color, #e5e7eb);
+}
+
+.prediction-card h2 {
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+
+.team-selection {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    gap: 14px;
+    align-items: end;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.form-group select,
+.form-group input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 12px 14px;
+    border-radius: 10px;
+    border: 1px solid #d1d5db;
+    background: #fff;
+    font-size: 14px;
+}
+
+.vs {
+    padding-bottom: 21px;
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.predict-button {
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    padding: 14px;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+    background: #111827;
+    color: white;
+    transition: transform 0.15s ease, opacity 0.15s ease;
+}
+
+.predict-button:hover {
+    transform: translateY(-1px);
+}
+
+.predict-button:disabled {
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+.prediction-error {
+    padding: 12px;
+    border-radius: 9px;
+    margin-bottom: 16px;
+    font-size: 13px;
+    background: #fee2e2;
+    color: #991b1b;
+}
+
+.prediction-result {
+    min-height: 430px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.empty-result,
+.loading-result {
+    max-width: 450px;
+    text-align: center;
+}
+
+.empty-icon {
+    font-size: 48px;
+    margin-bottom: 15px;
+}
+
+.empty-result h2,
+.loading-result h2 {
+    margin-bottom: 8px;
+}
+
+.empty-result p,
+.loading-result p {
+    line-height: 1.6;
+    opacity: 0.7;
+}
+
+.loader {
+    width: 42px;
+    height: 42px;
+    border: 4px solid #e5e7eb;
+    border-top-color: #111827;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin: 0 auto 20px;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.result-content {
+    width: 100%;
+    text-align: center;
+}
+
+.result-content h2 {
+    font-size: 40px;
+    margin: 4px 0;
+}
+
+.winner-text {
+    opacity: 0.65;
+    margin-top: 0;
+}
+
+.probability-container {
+    margin-top: 28px;
+    text-align: left;
+}
+
+.probability-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 7px;
+    font-size: 14px;
+}
+
+.probability-bar {
+    height: 14px;
+    background: #e5e7eb;
+    border-radius: 20px;
+    overflow: hidden;
+    margin-bottom: 18px;
+}
+
+.probability-a,
+.probability-b {
+    height: 100%;
+    border-radius: 20px;
+    transition: width 0.7s ease;
+}
+
+.probability-a {
+    background: #2563eb;
+}
+
+.probability-b {
+    background: #dc2626;
+}
+
+.match-summary {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    margin-top: 24px;
+}
+
+.match-summary div {
+    padding: 13px;
+    border-radius: 10px;
+    background: #f9fafb;
+    text-align: left;
+}
+
+.match-summary span,
+.model-info span {
+    display: block;
+    font-size: 11px;
+    opacity: 0.6;
+    margin-bottom: 4px;
+}
+
+.match-summary strong {
+    font-size: 14px;
+}
+
+.model-info {
+    margin-top: 20px;
+    padding-top: 18px;
+    border-top: 1px solid #e5e7eb;
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    align-items: center;
+    font-size: 12px;
+}
+
+@media (max-width: 900px) {
+
+    .predictor-grid {
+        grid-template-columns: 1fr;
+    }
+
+}
+
+@media (max-width: 600px) {
+
+    .predictor-page {
+        padding: 18px;
+    }
+
+    .predictor-header h1 {
+        font-size: 28px;
+    }
+
+    .team-selection {
+        grid-template-columns: 1fr;
+    }
+
+    .vs {
+        text-align: center;
+        padding: 0;
+        margin-top: -8px;
+        margin-bottom: 8px;
+    }
+
+    .match-summary {
+        grid-template-columns: 1fr;
+    }
+
+    .model-info {
+        flex-wrap: wrap;
+    }
+
+}

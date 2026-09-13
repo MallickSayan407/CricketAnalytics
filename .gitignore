@@ -1,0 +1,67 @@
+# =========================================================
+# CricketAnalytics - Root Git Ignore
+# =========================================================
+# OS
+.DS_Store
+Thumbs.db
+# IDE
+.idea/
+.vscode/
+*.iml
+# Java / Gradle
+**/.gradle/
+**/build/
+**/out/
+*.class
+*.log
+# Node / React / Vite
+**/node_modules/
+**/dist/
+**/dist-ssr/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+# Python
+**/.venv/
+**/venv/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+# Jupyter
+**/.ipynb_checkpoints/
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+# Temporary files
+*.tmp
+*.temp
+*.swp
+# Local backups
+backups/
+# =========================================================
+# Large raw cricket datasets
+# =========================================================
+cricket-analytics-data/raw/
+
+# =========================================================
+# Experimental ML model artifacts
+# Keep only the production ODI model
+# =========================================================
+cricket-analytics-data/ml/models/*.joblib
+!cricket-analytics-data/ml/models/odi_v2_production_model.joblib
+# Temporary downloaded/diagnostic cricket JSON files
+cricket-analytics-data/temp_dls/
+# Temporary cricket analysis files
+cricket-analytics-data/temp_nrr/
+cricket-analytics-data/temp_nrr2/
+
+# IDE project metadata
+**/.project
+**/.classpath
+**/.settings/

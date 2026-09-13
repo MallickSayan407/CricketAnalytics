@@ -1,0 +1,253 @@
+/* ============================================================
+   TEAM PROFILE
+   ============================================================ */
+
+.team-profile-page {
+    max-width: 1200px;
+}
+
+.team-profile-header {
+    display: flex;
+    align-items: center;
+    gap: 22px;
+    padding: 28px;
+    margin-bottom: 24px;
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 16px;
+    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.04);
+}
+
+.team-profile-badge {
+    width: 92px;
+    height: 92px;
+    min-width: 92px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    background: #171717;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+}
+
+.team-profile-header h1 {
+    margin: 5px 0 7px;
+    font-size: 36px;
+    line-height: 1.1;
+}
+
+.team-profile-header p {
+    margin: 0;
+    color: #777;
+    font-size: 15px;
+}
+
+.team-filter-section {
+    padding: 22px;
+    margin-bottom: 28px;
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 14px;
+    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.03);
+}
+
+.team-filter-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
+}
+
+.team-filter-group {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.team-filter-group label {
+    font-size: 13px;
+    font-weight: 700;
+    color: #555;
+}
+
+.team-filter-group select {
+    width: 100%;
+    padding: 12px 13px;
+    border: 1px solid #d8d8d8;
+    border-radius: 9px;
+    background: #fff;
+    color: #222;
+    font-size: 14px;
+    outline: none;
+}
+
+.team-filter-group select:focus {
+    border-color: #999;
+}
+
+.team-filter-group select:disabled {
+    opacity: 0.55;
+    cursor: not-allowed;
+}
+
+.team-profile-context {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 18px;
+    padding: 13px 16px;
+    border-radius: 9px;
+    background: #f7f7f5;
+    border: 1px solid #e6e6e2;
+    color: #777;
+    font-size: 14px;
+}
+
+.team-profile-context strong {
+    color: #171717;
+}
+
+.team-filter-loading {
+    margin: -10px 0 20px;
+    padding: 11px 14px;
+    border-radius: 8px;
+    background: #f7f7f5;
+    color: #555;
+    font-size: 13px;
+}
+
+.team-inline-error {
+    margin-bottom: 20px;
+    padding: 12px 15px;
+    border: 1px solid #f0caca;
+    border-radius: 9px;
+    background: #fff5f5;
+    color: #b42318;
+    font-size: 14px;
+}
+
+.team-chart-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 24px;
+}
+
+.team-chart-section {
+    min-width: 0;
+}
+
+.team-chart-heading {
+    margin-bottom: 12px;
+}
+
+.team-chart-heading h3 {
+    margin: 0 0 5px;
+    font-size: 19px;
+}
+
+.team-chart-heading p {
+    margin: 0;
+    color: #777;
+    font-size: 14px;
+}
+
+.team-chart-card {
+    min-width: 0;
+    padding: 16px;
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 12px;
+    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.03);
+}
+
+.team-profile-page .profile-section {
+    margin-bottom: 30px;
+}
+
+.team-profile-page .team-stat-grid {
+    margin-top: 18px;
+}
+
+.team-profile-page .team-insights-grid {
+    margin-top: 18px;
+}
+
+.team-profile-page .comparison-footer {
+    margin-top: 34px;
+}
+
+.empty-state {
+    min-height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #777;
+    font-size: 14px;
+}
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+
+@media (max-width: 900px) {
+    .team-chart-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .team-profile-header h1 {
+        font-size: 31px;
+    }
+}
+
+@media (max-width: 700px) {
+    .team-filter-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .team-profile-header {
+        align-items: flex-start;
+        padding: 22px;
+    }
+
+    .team-profile-badge {
+        width: 72px;
+        height: 72px;
+        min-width: 72px;
+        border-radius: 14px;
+        font-size: 20px;
+    }
+
+    .team-profile-header h1 {
+        font-size: 27px;
+    }
+
+    .team-profile-context {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 3px;
+    }
+}
+
+@media (max-width: 500px) {
+    .team-profile-header {
+        gap: 15px;
+    }
+
+    .team-profile-badge {
+        width: 62px;
+        height: 62px;
+        min-width: 62px;
+        font-size: 17px;
+    }
+
+    .team-profile-header h1 {
+        font-size: 23px;
+    }
+
+    .team-chart-card {
+        padding: 8px;
+    }
+}

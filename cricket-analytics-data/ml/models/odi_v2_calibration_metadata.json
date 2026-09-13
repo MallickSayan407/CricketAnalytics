@@ -1,0 +1,73 @@
+{
+  "dataset": "odi_match_training_v2.csv",
+  "base_model": "Logistic Regression",
+  "C": 0.001,
+  "feature_count": 51,
+  "development_rows": 1952,
+  "final_test_rows": 488,
+  "development_start": "2002-06-27",
+  "development_end": "2022-07-27",
+  "final_test_start": "2022-07-31",
+  "final_test_end": "2026-08-13",
+  "calibration_folds": [
+    [
+      0.6,
+      0.7
+    ],
+    [
+      0.7,
+      0.8
+    ],
+    [
+      0.8,
+      0.9
+    ],
+    [
+      0.9,
+      1.0
+    ]
+  ],
+  "calibration_rows": 781,
+  "final_test_locked": true,
+  "selection_priority": [
+    "brier",
+    "log_loss",
+    "roc_auc"
+  ],
+  "best_model": "Raw Tuned Logistic Regression",
+  "results": [
+    {
+      "model": "Raw Tuned Logistic Regression",
+      "accuracy": 0.6168032786885246,
+      "precision": 0.5683890577507599,
+      "recall": 0.8060344827586207,
+      "f1": 0.6666666666666666,
+      "roc_auc": 0.6734745420258621,
+      "log_loss": 0.6655966234650709,
+      "brier": 0.2363606549872594,
+      "ece": 0.10077686420436914
+    },
+    {
+      "model": "Sigmoid Calibrated",
+      "accuracy": 0.6127049180327869,
+      "precision": 0.5623188405797102,
+      "recall": 0.8362068965517241,
+      "f1": 0.6724436741767764,
+      "roc_auc": 0.6734745420258621,
+      "log_loss": 0.6736236655279642,
+      "brier": 0.23970577509100394,
+      "ece": 0.11641990812230067
+    },
+    {
+      "model": "Isotonic Calibrated",
+      "accuracy": 0.5594262295081968,
+      "precision": 0.5206812652068127,
+      "recall": 0.9224137931034483,
+      "f1": 0.6656298600311042,
+      "roc_auc": 0.6649801320043103,
+      "log_loss": 0.7511391376247283,
+      "brier": 0.2451903315394,
+      "ece": 0.12654758225524887
+    }
+  ]
+}

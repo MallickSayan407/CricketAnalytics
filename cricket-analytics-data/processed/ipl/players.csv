@@ -1,0 +1,810 @@
+﻿player_external_id,player_name,gender,team_name
+db584dad,CH Gayle,male,Royal Challengers Bengaluru
+c3a96caf,Mandeep Singh,male,Royal Challengers Bengaluru
+12b610c2,TM Head,male,Royal Challengers Bengaluru
+99d63244,KM Jadhav,male,Royal Challengers Bengaluru
+4329fbb5,SR Watson,male,Royal Challengers Bengaluru
+dc9dd038,Sachin Baby,male,Royal Challengers Bengaluru
+bd17b45f,STR Binny,male,Royal Challengers Bengaluru
+957532de,S Aravind,male,Royal Challengers Bengaluru
+245c97cb,TS Mills,male,Mumbai Indians
+57ee1fde,YS Chahal,male,Royal Challengers Bengaluru
+18e6906e,A Choudhary,male,Royal Challengers Bengaluru
+dcce6f09,DA Warner,male,Sunrisers Hyderabad
+0a476045,S Dhawan,male,Sunrisers Hyderabad
+32198ae0,MC Henriques,male,Sunrisers Hyderabad
+1c914163,Yuvraj Singh,male,Sunrisers Hyderabad
+73ad96ed,DJ Hooda,male,Sunrisers Hyderabad
+2e11c706,BCJ Cutting,male,Sunrisers Hyderabad
+890946a0,NV Ojha,male,Sunrisers Hyderabad
+c18496e1,Bipul Sharma,male,Sunrisers Hyderabad
+2e81a32d,B Kumar,male,Sunrisers Hyderabad
+96fd40ae,A Nehra,male,Sunrisers Hyderabad
+5f547c8b,Rashid Khan,male,Gujarat Titans
+b5da6c24,PA Patel,male,Mumbai Indians
+99b75528,JC Buttler,male,Mumbai Indians
+740742ef,RG Sharma,male,Mumbai Indians
+fb2d1dda,N Rana,male,Mumbai Indians
+70d205c9,AT Rayudu,male,Mumbai Indians
+5b8c830e,KH Pandya,male,Mumbai Indians
+a757b0d8,KA Pollard,male,Mumbai Indians
+dbe50b21,HH Pandya,male,Mumbai Indians
+13c35c9e,TG Southee,male,Mumbai Indians
+51a3c5ef,MJ McClenaghan,male,Mumbai Indians
+462411b3,JJ Bumrah,male,Mumbai Indians
+29e95537,AM Rahane,male,Rising Pune Supergiant
+00ea847a,MA Agarwal,male,Delhi Capitals
+30a45b23,SPD Smith,male,Rising Pune Supergiant
+e087956b,BA Stokes,male,Chennai Super Kings
+4a8a2e3b,MS Dhoni,male,Rising Pune Supergiant
+26e5cabf,MK Tiwary,male,Delhi Capitals
+33a364a6,R Bhatia,male,Rising Pune Supergiant
+23eeb873,DL Chahar,male,Rising Pune Supergiant
+14f96089,A Zampa,male,Rising Pune Supergiant
+66b30f71,AB Dinda,male,Rising Pune Supergiant
+acee4cc4,Imran Tahir,male,Delhi Capitals
+d1c36f5c,JJ Roy,male,Kolkata Knight Riders
+b8a55852,BB McCullum,male,Gujarat Lions
+1dc12ab9,SK Raina,male,Gujarat Lions
+b8d490fd,AJ Finch,male,Gujarat Lions
+c03f1114,KD Karthik,male,Gujarat Lions
+35205dfc,DR Smith,male,Gujarat Lions
+ae78bc32,MS Gony,male,Punjab Kings
+e938e1bc,P Kumar,male,Gujarat Lions
+c8179c68,SB Jakati,male,Gujarat Lions
+d2a989fc,DS Kulkarni,male,Gujarat Lions
+1da489ff,S Kaushik,male,Gujarat Lions
+bb345e0b,G Gambhir,male,Kolkata Knight Riders
+45eda7c8,CA Lynn,male,Kolkata Knight Riders
+1c17e270,RV Uthappa,male,Kolkata Knight Riders
+93b4fc78,MK Pandey,male,Kolkata Knight Riders
+3c6ffae8,YK Pathan,male,Kolkata Knight Riders
+271f83cd,SA Yadav,male,Kolkata Knight Riders
+4c5d73db,CR Woakes,male,Delhi Capitals
+98ae73b1,PP Chawla,male,Kolkata Knight Riders
+8d2c70ad,Kuldeep Yadav,male,Kolkata Knight Riders
+9d430b40,SP Narine,male,Kolkata Knight Riders
+a818c1be,TA Boult,male,Sunrisers Hyderabad
+e798611a,HM Amla,male,Punjab Kings
+c03e2850,M Vohra,male,Punjab Kings
+fe11caa6,WP Saha,male,Punjab Kings
+2e171977,AR Patel,male,Punjab Kings
+b681e71e,GJ Maxwell,male,Punjab Kings
+d67d5f00,DA Miller,male,Punjab Kings
+d9273ee7,MP Stoinis,male,Punjab Kings
+983f2f61,Swapnil Singh,male,Punjab Kings
+759ac88f,MM Sharma,male,Punjab Kings
+ce820073,Sandeep Sharma,male,Punjab Kings
+ce794613,T Natarajan,male,Delhi Capitals
+2a2e6343,DT Christian,male,Royal Challengers Bengaluru
+2ed569a0,RD Chahar,male,Chennai Super Kings
+0494fa6e,Vishnu Vinod,male,Punjab Kings
+f62772e5,P Negi,male,Delhi Capitals
+85aae393,Iqbal Abdulla,male,Royal Challengers Bengaluru
+6834d1f2,B Stanlake,male,Sunrisers Hyderabad
+855a210c,AP Tare,male,Sunrisers Hyderabad
+c16d4035,SW Billings,male,Delhi Capitals
+944533a5,KK Nair,male,Delhi Capitals
+a4cc73aa,SV Samson,male,Delhi Capitals
+919a3be2,RR Pant,male,Delhi Capitals
+fb66ce1f,CH Morris,male,Delhi Capitals
+e342e5fb,CR Brathwaite,male,Delhi Capitals
+ded9240e,PJ Cummins,male,Kolkata Knight Riders
+6b19d823,A Mishra,male,Delhi Capitals
+9d80c5e1,S Nadeem,male,Delhi Capitals
+91a4a398,Z Khan,male,Delhi Capitals
+871e9faf,Basil Thampi,male,Mumbai Indians
+c28e9f12,Tejas Baroka,male,Gujarat Lions
+db31895a,AS Rajpoot,male,Kolkata Knight Riders
+8b5b6769,Harbhajan Singh,male,Mumbai Indians
+a12e1d51,SL Malinga,male,Mumbai Indians
+0a3d54b9,VR Aaron,male,Royal Challengers Bengaluru
+c4487b84,AB de Villiers,male,Royal Challengers Bengaluru
+8abdf100,CJ Anderson,male,Mumbai Indians
+3355b542,F du Plessis,male,Rising Pune Supergiant
+77255a9e,RA Tripathi,male,Chennai Super Kings
+0994d0ae,V Shankar,male,Chennai Super Kings
+0a8fce53,Mustafizur Rahman,male,Sunrisers Hyderabad
+5bb1a1c4,I Sharma,male,Rising Pune Supergiant
+94d7f855,C de Grandhomme,male,Royal Challengers Bengaluru
+cc1e8c68,UT Yadav,male,Kolkata Knight Riders
+ba607b88,V Kohli,male,Royal Challengers Bengaluru
+76388dc8,S Badree,male,Chennai Super Kings
+752f7486,Ishan Kishan,male,Gujarat Lions
+fe93fd9d,RA Jadeja,male,Gujarat Lions
+7c7d63a2,AJ Tye,male,Lucknow Super Giants
+24d94623,Ankit Sharma,male,Rising Pune Supergiant
+1abb78f8,SN Thakur,male,Punjab Kings
+2f9d0389,LH Ferguson,male,Punjab Kings
+85ec8e33,SS Iyer,male,Delhi Capitals
+d2a6c0e6,EJG Morgan,male,Sunrisers Hyderabad
+edb3d4f8,KC Cariappa,male,Punjab Kings
+f0f628c7,MM Patel,male,Mumbai Indians
+1e66c162,JD Unadkat,male,Kolkata Knight Riders
+350bb1b1,AF Milne,male,Royal Challengers Bengaluru
+896d78ad,AD Mathews,male,Delhi Capitals
+8cf9814c,Mohammed Shami,male,Delhi Capitals
+56ab442f,NM Coulter-Nile,male,Delhi Capitals
+62af8546,Mohammad Nabi,male,Mumbai Indians
+d8b2f218,BB Sran,male,Sunrisers Hyderabad
+dcf81436,S Kaul,male,Delhi Capitals
+81049310,J Yadav,male,Delhi Capitals
+d027ba9f,KS Williamson,male,Sunrisers Hyderabad
+2f49c897,Mohammed Siraj,male,Gujarat Titans
+508a1ea7,SE Marsh,male,Punjab Kings
+6eb146d2,Gurkeerat Singh,male,Punjab Kings
+808f425a,JP Faulkner,male,Gujarat Lions
+7dc35884,Shakib Al Hasan,male,Kolkata Knight Riders
+e62dd25d,K Rabada,male,Gujarat Titans
+f5180fe6,MG Johnson,male,Punjab Kings
+f19ccfad,Washington Sundar,male,Gujarat Titans
+f10e94c4,AD Nath,male,Gujarat Lions
+b51f72a5,SS Agarwal,male,Gujarat Lions
+b822e99c,NB Singh,male,Gujarat Lions
+119678fd,KV Sharma,male,Sunrisers Hyderabad
+14b14cd8,DM Bravo,male,Kolkata Knight Riders
+f18ba07f,Ankit Soni,male,Gujarat Lions
+afe3355a,AR Bawne,male,Delhi Capitals
+acc1aeda,SP Jackson,male,Kolkata Knight Riders
+2be41edb,MJ Guptill,male,Mumbai Indians
+69be866a,Anureet Singh,male,Punjab Kings
+5fa06777,IK Pathan,male,Rising Pune Supergiant
+9fc0ef64,PJ Sangwan,male,Gujarat Lions
+f846de6a,MN Samuels,male,Pune Warriors
+89f64c19,LMP Simmons,male,Mumbai Indians
+39a2dfa8,R Tewatia,male,Rajasthan Royals
+e84ac20c,MJ Henry,male,Chennai Super Kings
+709b0bac,SS Tiwary,male,Rising Pune Supergiant
+41eb4a4f,R Vinay Kumar,male,Mumbai Indians
+f986ca1a,HV Patel,male,Royal Challengers Bengaluru
+eef2536f,Avesh Khan,male,Lucknow Super Giants
+dded65e7,IR Jaggi,male,Deccan Chargers
+ffe699c0,CJ Jordan,male,Royal Challengers Bengaluru
+0ebfb1ad,E Lewis,male,Lucknow Super Giants
+a9fd84fb,M Markande,male,Mumbai Indians
+87e562a9,DJ Bravo,male,Gujarat Lions
+8d92a2c3,MA Wood,male,Lucknow Super Giants
+af2c687b,C Munro,male,Kolkata Knight Riders
+b17e2f24,KL Rahul,male,Royal Challengers Bengaluru
+495d42a5,R Ashwin,male,Rising Pune Supergiant
+7d92277a,Mujeeb Ur Rahman,male,Mumbai Indians
+372455c4,Q de Kock,male,Delhi Capitals
+f088b960,SN Khan,male,Royal Challengers Bengaluru
+fa2f1dde,K Khejroliya,male,Gujarat Titans
+0a509d6b,RK Singh,male,Kolkata Knight Riders
+bbd41817,AD Russell,male,Kolkata Knight Riders
+1a156c88,DJM Short,male,Rajasthan Royals
+90de905a,K Gowtham,male,Lucknow Super Giants
+7a8bd078,S Gopal,male,Mumbai Indians
+b2a79f17,B Laughlin,male,Chennai Super Kings
+e86754b2,TK Curran,male,Delhi Capitals
+5b16a806,A Dananjaya,male,Mumbai Indians
+b4b99816,Shubman Gill,male,Gujarat Titans
+c38d3503,Shivam Mavi,male,Kolkata Knight Riders
+4b57e452,M Vijay,male,Punjab Kings
+235c2bb6,H Klaasen,male,Sunrisers Hyderabad
+b63e358a,RK Bhui,male,Delhi Capitals
+5574750c,JC Archer,male,Rajasthan Royals
+8b3e9c7c,PP Shaw,male,Delhi Capitals
+9a963804,LE Plunkett,male,Delhi Capitals
+2e8994e7,JP Duminy,male,Delhi Capitals
+92aeac25,AD Hales,male,Sunrisers Hyderabad
+da934ee8,MK Lomror,male,Royal Challengers Bengaluru
+641ac5ff,IS Sodhi,male,Rajasthan Royals
+e2db2409,M Ashwin,male,Rising Pune Supergiant
+798cc28e,KM Asif,male,Rajasthan Royals
+f834dcfc,L Ngidi,male,Delhi Capitals
+faa7365d,DR Shorey,male,Chennai Super Kings
+7f048519,DJ Willey,male,Royal Challengers Bengaluru
+85e0cf10,M Prasidh Krishna,male,Gujarat Titans
+bb351c23,MM Ali,male,Kolkata Knight Riders
+541f85c9,SP Goswami,male,Rajasthan Royals
+8ac93ca2,P Chopra,male,Rajasthan Royals
+99ed60f8,JPR Scantlebury-Searles,male,Kolkata Knight Riders
+f29185a1,Abhishek Sharma,male,Sunrisers Hyderabad
+b410bd3d,S Lamichhane,male,Delhi Capitals
+1cb14aa4,CJ Dala,male,Delhi Capitals
+a2f46292,KK Ahmed,male,Chennai Super Kings
+48a1d7b7,SO Hetmyer,male,Rajasthan Royals
+a4e37e47,S Dube,male,Chennai Super Kings
+21d4e29b,Navdeep Saini,male,Kolkata Knight Riders
+abb83e27,JM Bairstow,male,Mumbai Indians
+c995d726,CA Ingram,male,Delhi Capitals
+75224f22,KMA Paul,male,Delhi Capitals
+b8527c3d,Rasikh Salam,male,Royal Challengers Bengaluru
+3241e3fd,N Pooran,male,Lucknow Super Giants
+e94915e6,SM Curran,male,Chennai Super Kings
+a316d663,GC Viljoen,male,Punjab Kings
+5b7ab5a9,CV Varun,male,Kolkata Knight Riders
+aedc3b7c,NS Naik,male,Punjab Kings
+94253925,GH Vihari,male,Sunrisers Hyderabad
+441c72ae,P Ray Barman,male,Royal Challengers Bengaluru
+e4a0deae,MJ Santner,male,Mumbai Indians
+4933f499,JP Behrendorff,male,Mumbai Indians
+fef92afc,SC Kuggeleijn,male,Chennai Super Kings
+b0946605,AS Joseph,male,Royal Challengers Bengaluru
+ade90de7,S Midhun,male,Rajasthan Royals
+e412cb64,HF Gurney,male,Kolkata Knight Riders
+9601c534,SD Lad,male,Mumbai Indians
+04a418e8,R Parag,male,Rajasthan Royals
+bdadf7da,JL Denly,male,Kolkata Knight Riders
+50c6bc2b,LS Livingstone,male,Sunrisers Hyderabad
+244048f6,Arshdeep Singh,male,Punjab Kings
+ff1e12a0,AJ Turner,male,Lucknow Super Giants
+8fd1a8f5,DW Steyn,male,Gujarat Lions
+c05edf8e,Harpreet Brar,male,Punjab Kings
+d014d5ac,SE Rutherford,male,Mumbai Indians
+cfa4bd2b,Y Prithvi Raj,male,Kolkata Knight Riders
+c6097d68,O Thomas,male,Rajasthan Royals
+e4cdf230,AS Roy,male,Kolkata Knight Riders
+cdc6bdba,S Sandeep Warrier,male,Gujarat Titans
+9418198b,P Simran Singh,male,Punjab Kings
+4125d931,J Suchith,male,Mumbai Indians
+f752db61,JL Pattinson,male,Mumbai Indians
+acdc62f5,A Nortje,male,Lucknow Super Giants
+a1d053dd,SS Cottrell,male,Punjab Kings
+df064e1a,Ravi Bishnoi,male,Rajasthan Royals
+25f7b7d6,T Banton,male,Kolkata Knight Riders
+2c25d4f5,D Padikkal,male,Royal Challengers Bengaluru
+ac5ae4af,I Udana,male,Royal Challengers Bengaluru
+bb965e9a,PK Garg,male,Delhi Capitals
+0f721006,JO Holder,male,Kolkata Knight Riders
+8e514b4c,Abdul Samad,male,Lucknow Super Giants
+6c19c6e5,YBK Jaiswal,male,Rajasthan Royals
+45a43fe2,RD Gaikwad,male,Chennai Super Kings
+b4f5c2d9,KL Nagarkoti,male,Delhi Capitals
+46a9bea1,TU Deshpande,male,Rajasthan Royals
+39086549,JR Philippe,male,Royal Challengers Bengaluru
+5d2eea49,Kartik Tyagi,male,Kolkata Knight Riders
+9219eff0,JDS Neesham,male,Delhi Capitals
+f9e6e7ef,Shahbaz Ahmed,male,Lucknow Super Giants
+caf69bf7,DR Sams,male,Mumbai Indians
+bd54eef5,N Jagadeesan,male,Kolkata Knight Riders
+69d03465,AT Carey,male,Delhi Capitals
+03806cf8,JR Hazlewood,male,Royal Challengers Bengaluru
+19b9f399,CJ Green,male,Kolkata Knight Riders
+3d8feaf8,MR Marsh,male,Rising Pune Supergiant
+ed5a5510,P Dubey,male,Punjab Kings
+fb24e76c,Monu Kumar,male,Chennai Super Kings
+81c36ee9,M Jansen,male,Punjab Kings
+c740ea83,RM Patidar,male,Royal Challengers Bengaluru
+68c56d09,KA Jamieson,male,Delhi Capitals
+7dcb9bc9,M Shahrukh Khan,male,Gujarat Titans
+1ee08e9a,JA Richardson,male,Delhi Capitals
+64775749,RP Meredith,male,Mumbai Indians
+2cdce1be,C Sakariya,male,Kolkata Knight Riders
+ad427b5c,Lalit Yadav,male,Delhi Capitals
+26d76ad9,Virat Singh,male,Sunrisers Hyderabad
+249abedf,Jalaj S Saxena,male,Punjab Kings
+d3611425,LI Meriwala,male,Delhi Capitals
+b52ffbbd,FA Allen,male,Mumbai Indians
+dfc4d8b5,KW Richardson,male,Royal Challengers Bengaluru
+c8f5f961,Anuj Rawat,male,Royal Challengers Bengaluru
+ad9c32a2,DJ Malan,male,Punjab Kings
+44a89551,KS Bharat,male,Delhi Capitals
+a97c8ec2,PWH de Silva,male,Rajasthan Royals
+a24be938,VR Iyer,male,Royal Challengers Bengaluru
+81c08fa3,Umran Malik,male,Sunrisers Hyderabad
+9a46c4e5,GD Phillips,male,Gujarat Titans
+b483905d,Akash Singh,male,Lucknow Super Giants
+be869ccf,GHS Garton,male,Royal Challengers Bengaluru
+6a26221c,AK Markram,male,Lucknow Super Giants
+030f3089,K Yadav,male,Rajasthan Royals
+a03bba42,T Shamsi,male,Royal Challengers Bengaluru
+9eb1455b,NT Ellis,male,Chennai Super Kings
+60500956,RV Patel,male,Delhi Capitals
+4663bd23,TL Seifert,male,Kolkata Knight Riders
+1399b39c,Anmolpreet Singh,male,Sunrisers Hyderabad
+fdf7491e,IC Porel,male,Punjab Kings
+249d60c9,AU Rashid,male,Sunrisers Hyderabad
+f1f99156,TH David,male,Royal Challengers Bengaluru
+df5a6881,DP Conway,male,Chennai Super Kings
+b0482a1d,Tilak Varma,male,Mumbai Indians
+650d5e49,R Powell,male,Kolkata Knight Riders
+0a67aec0,Akash Deep,male,Lucknow Super Giants
+6c882e9a,PBB Rajapaksa,male,Punjab Kings
+ba6b2f91,RA Bawa,male,Mumbai Indians
+23cca426,OF Smith,male,Punjab Kings
+872b03f7,A Badoni,male,Lucknow Super Giants
+327b58d3,PVD Chameera,male,Delhi Capitals
+c33d8116,Mohsin Khan,male,Lucknow Super Giants
+afa7e784,MS Wade,male,Delhi Capitals
+0890552f,A Manohar,male,Sunrisers Hyderabad
+c5aef772,R Shepherd,male,Royal Challengers Bengaluru
+11614d87,D Pretorius,male,Chennai Super Kings
+765a4731,Mukesh Choudhary,male,Chennai Super Kings
+800d2d97,JM Sharma,male,Royal Challengers Bengaluru
+7c3b3b78,VG Arora,male,Kolkata Knight Riders
+844e79d1,D Brevis,male,Chennai Super Kings
+d5130a30,B Sai Sudharsan,male,Gujarat Titans
+cd8d2859,DG Nalkande,male,Gujarat Titans
+f24c6701,M Theekshana,male,Rajasthan Royals
+26989d80,Shashank Singh,male,Punjab Kings
+be24ead0,Ramandeep Singh,male,Kolkata Knight Riders
+9948e262,HE van der Dussen,male,Rajasthan Royals
+2e78f685,KR Sen,male,Rajasthan Royals
+9385de2e,SS Prabhudessai,male,Royal Challengers Bengaluru
+7210d461,Yash Dayal,male,Royal Challengers Bengaluru
+378daa89,Aman Hakim Khan,male,Delhi Capitals
+529eb9e0,OC McCoy,male,Rajasthan Royals
+0c9652b0,HR Shokeen,male,Mumbai Indians
+26a85969,R Dhawan,male,Punjab Kings
+eade4650,DJ Mitchell,male,Chennai Super Kings
+ff1e68fa,B Indrajith,male,Kolkata Knight Riders
+77b1aa15,Harshit Rana,male,Kolkata Knight Riders
+f6d8a7ab,K Kartikeya,male,Rajasthan Royals
+30df8c66,Simarjeet Singh,male,Sunrisers Hyderabad
+1a2676c5,SA Abbott,male,Royal Challengers Bengaluru
+e9c7f0d0,Fazalhaq Farooqi,male,Rajasthan Royals
+c7a995d3,R Sai Kishore,male,Gujarat Titans
+39ed0d2f,KS Sharma,male,Lucknow Super Giants
+85b3fab2,T Stubbs,male,Delhi Capitals
+c695b423,PH Solanki,male,Chennai Super Kings
+64839cb3,M Pathirana,male,Kolkata Knight Riders
+33ffc3dd,R Sanjay Yadav,male,Mumbai Indians
+aa5d8c9e,A Tomar,male,Kolkata Knight Riders
+663b5e34,PN Mankad,male,Lucknow Super Giants
+c3c92b42,RS Hangargekar,male,Chennai Super Kings
+9061a703,J Little,male,Gujarat Titans
+26d041c4,Sikandar Raza,male,Punjab Kings
+0bacade8,Rahmanullah Gurbaz,male,Kolkata Knight Riders
+73c18486,KR Mayers,male,Lucknow Super Giants
+cad00a4d,RR Rossouw,male,Royal Challengers Bengaluru
+2cffab74,Mukesh Kumar,male,Delhi Capitals
+4ae1755b,HC Brook,male,Sunrisers Hyderabad
+eaa76d3c,C Green,male,Kolkata Knight Riders
+d1a60072,N Wadhera,male,Punjab Kings
+12314277,Arshad Khan,male,Gujarat Titans
+e38bce7a,MG Bracewell,male,Royal Challengers Bengaluru
+8db7f47f,RJW Topley,male,Mumbai Indians
+4b31f3a3,Yash Thakur,male,Punjab Kings
+ad3b6e95,Abishek Porel,male,Delhi Capitals
+bcf325d2,Dhruv Jurel,male,Rajasthan Royals
+9440ef41,Suyash Sharma,male,Royal Challengers Bengaluru
+8361e524,SSB Magala,male,Chennai Super Kings
+a90e53ec,MW Short,male,Chennai Super Kings
+9a5f2863,Mohit Rathee,male,Punjab Kings
+3a60e0b5,WD Parnell,male,Delhi Capitals
+dd7e9b3b,YV Dhull,male,Delhi Capitals
+54e52590,Vijaykumar Vyshak,male,Punjab Kings
+4885bbe6,Yudhvir Singh,male,Rajasthan Royals
+1ac746c8,Atharva Taide,male,Sunrisers Hyderabad
+28c78fb3,Harpreet Singh,male,Pune Warriors
+44aac2f0,Arjun Tendulkar,male,Lucknow Super Giants
+8dc152d1,D Jansen,male,Mumbai Indians
+efc04be7,Noor Ahmad,male,Chennai Super Kings
+c0c411cb,Naveen-ul-Haq,male,Lucknow Super Giants
+0404d43c,Liton Das,male,Kolkata Knight Riders
+3d284ca3,PD Salt,male,Royal Challengers Bengaluru
+a457cfb5,Mayank Dagar,male,Royal Challengers Bengaluru
+cc777ffa,Abdul Basith,male,Rajasthan Royals
+aa8d28ae,D Wiese,male,Royal Challengers Bengaluru
+99258814,Gurnoor Brar,male,Punjab Kings
+4d7f517e,AJ Hosein,male,Chennai Super Kings
+4bd09374,Akash Madhwal,male,Rajasthan Royals
+266849c1,R Goyal,male,Mumbai Indians
+a343262c,JE Root,male,Rajasthan Royals
+1b7b0fa7,Vivrant Sharma,male,Sunrisers Hyderabad
+3ff033bb,MD Shanaka,male,Rajasthan Royals
+b0f2baf4,Sanvir Singh,male,Sunrisers Hyderabad
+aad0c365,Nithish Kumar Reddy,male,Sunrisers Hyderabad
+52294a79,H Sharma,male,Royal Challengers Bengaluru
+ba5e1069,R Ravindra,male,Chennai Super Kings
+f89d3b11,Sameer Rizvi,male,Delhi Capitals
+1fc6ef83,SD Hope,male,Delhi Capitals
+8998a68f,Sumit Kumar,male,Delhi Capitals
+3fb19989,MA Starc,male,Royal Challengers Bengaluru
+465aa633,N Burger,male,Rajasthan Royals
+8f6dd463,Azmatullah Omarzai,male,Punjab Kings
+83c3e8e3,SH Johnson,male,Chennai Super Kings
+65b6943c,L Wood,male,Mumbai Indians
+fffa744b,Naman Dhir,male,Mumbai Indians
+3204c99f,G Coetzee,male,Gujarat Titans
+9d704f6f,SZ Mulani,male,Mumbai Indians
+107c26fb,KT Maphaka,male,Rajasthan Royals
+d7017798,A Raghuvanshi,male,Kolkata Knight Riders
+b1ad996b,MP Yadav,male,Lucknow Super Giants
+cf0ccafa,M Siddharth,male,Lucknow Super Giants
+6b2ff18f,SB Dubey,male,Rajasthan Royals
+84d9c311,Ashutosh Sharma,male,Delhi Capitals
+9e7225b0,Saurav Chauhan,male,Royal Challengers Bengaluru
+57ca01b3,Kumar Kushagra,male,Gujarat Titans
+c2dd89ea,BR Sharath,male,Gujarat Titans
+0b60eb09,KA Maharaj,male,Rajasthan Royals
+9caf69a1,WG Jacks,male,Mumbai Indians
+9b6e1b3f,J Fraser-McGurk,male,Delhi Capitals
+5724e517,Tanush Kotian,male,Rajasthan Royals
+97290faf,S Joseph,male,Lucknow Super Giants
+ee1b6c27,N Thushara,male,Royal Challengers Bengaluru
+a1d95bd8,LB Williams,male,Delhi Capitals
+2d140b79,AA Kulkarni,male,Lucknow Super Giants
+402f8494,RJ Gleeson,male,Mumbai Indians
+025c4400,MJ Suthar,male,Gujarat Titans
+fcc21ace,A Kamboj,male,Chennai Super Kings
+9f77963a,Gulbadin Naib,male,Delhi Capitals
+f0af99a7,D Ferreira,male,Rajasthan Royals
+03a83c50,V Viyaskanth,male,Sunrisers Hyderabad
+d4d929b0,V Kaverappa,male,Punjab Kings
+f836b33d,T Kohler-Cadmore,male,Rajasthan Royals
+e1d9ae9c,Shivam Singh,male,Punjab Kings
+a3b0600d,Aniket Verma,male,Sunrisers Hyderabad
+1e030637,V Puthur,male,Mumbai Indians
+e66732f8,RD Rickelton,male,Mumbai Indians
+bafd0398,R Minz,male,Mumbai Indians
+c27b5a0e,PVSN Raju,male,Mumbai Indians
+13fc5c6d,DS Rathi,male,Lucknow Super Giants
+80b2fb19,Prince Yadav,male,Lucknow Super Giants
+5ffc0565,V Nigam,male,Delhi Capitals
+b5797845,Priyansh Arya,male,Punjab Kings
+970ddd24,Suryansh Shedge,male,Punjab Kings
+c96f6ac5,PWA Mulder,male,Sunrisers Hyderabad
+36619795,Zeeshan Ansari,male,Sunrisers Hyderabad
+59559bc2,J Overton,male,Chennai Super Kings
+d45c29b1,Ashwani Kumar,male,Mumbai Indians
+08548b13,PHKD Mendis,male,Sunrisers Hyderabad
+ebcfef83,Himmat Singh,male,Lucknow Super Giants
+5750bcb4,E Malinga,male,Sunrisers Hyderabad
+cbf58a86,SK Rasheed,male,Chennai Super Kings
+989889ff,JP Inglis,male,Lucknow Super Giants
+3b53243a,XC Bartlett,male,Punjab Kings
+e96801ea,MS Bhandage,male,Royal Challengers Bengaluru
+470f446b,V Suryavanshi,male,Rajasthan Royals
+b2b4f545,A Mhatre,male,Chennai Super Kings
+172dff15,C Bosch,male,Mumbai Indians
+3c55c703,JG Bethell,male,Royal Challengers Bengaluru
+62175638,Karim Janat,male,Gujarat Titans
+e3851766,KS Rathore,male,Rajasthan Royals
+cf59b3f0,Urvil Patel,male,Chennai Super Kings
+fb5f69e4,M Tiwari,male,Delhi Capitals
+f2c936d7,MJ Owen,male,Punjab Kings
+cb9b8664,W O'Rourke,male,Lucknow Super Giants
+25228673,Harsh Dubey,male,Sunrisers Hyderabad
+35f173a0,MP Breetzke,male,Lucknow Super Giants
+d621b427,Musheer Khan,male,Punjab Kings
+5d1e7582,BKG Mendis,male,Gujarat Titans
+3c28853f,Sediqullah Atal,male,Delhi Capitals
+d7423da1,Salil Arora,male,Sunrisers Hyderabad
+6c79c098,DA Payne,male,Sunrisers Hyderabad
+dadbdb68,JA Duffy,male,Royal Challengers Bengaluru
+82c10dac,Abhinandan Singh,male,Royal Challengers Bengaluru
+bf74b130,FH Allen,male,Kolkata Knight Riders
+449f4e3c,B Muzarabani,male,Kolkata Knight Riders
+9ca68676,AM Ghazanfar,male,Mumbai Indians
+7b679de5,Kartik Sharma,male,Chennai Super Kings
+133bbd61,Brijesh Sharma,male,Rajasthan Royals
+50c09020,Ashok Sharma,male,Gujarat Titans
+fe366f34,C Connolly,male,Punjab Kings
+1c84109e,MD Choudhary,male,Lucknow Super Giants
+8ee36b18,P Nissanka,male,Delhi Capitals
+7b44eb3e,Shivang Kumar,male,Sunrisers Hyderabad
+e148e6bd,PR Veer,male,Chennai Super Kings
+cc61ee8f,Gurjapneet Singh,male,Chennai Super Kings
+7c3c0337,Auqib Nabi,male,Delhi Capitals
+e5437608,GF Linde,male,Lucknow Super Giants
+280fff14,Sakib Hussain,male,Sunrisers Hyderabad
+ece7b6b3,PP Hinge,male,Sunrisers Hyderabad
+60aa2db3,LG Pretorius,male,Rajasthan Royals
+2b801189,Mayank Rawat,male,Mumbai Indians
+02dfebbe,Yash Raj Punja,male,Rajasthan Royals
+9e6032fa,DV Malewar,male,Mumbai Indians
+e48a4814,Krish Bhagat,male,Mumbai Indians
+de7d833e,D Madushanka,male,Sunrisers Hyderabad
+926c7443,SU Parakh,male,Delhi Capitals
+5b615e7c,Raghu Sharma,male,Mumbai Indians
+dee07622,RS Ghosh,male,Chennai Super Kings
+c1e53c3f,R Smaran,male,Sunrisers Hyderabad
+3cea23da,N Sindhu,male,Gujarat Titans
+d8d67045,Akshat Raghuwanshi,male,Lucknow Super Giants
+e1b9f3a9,BJ Dwarshuis,male,Punjab Kings
+11061889,SR Dubey,male,Kolkata Knight Riders
+548516a6,Ravi Singh,male,Rajasthan Royals
+51ec3919,T Vijay,male,Delhi Capitals
+92500ad5,SS Mishra,male,Rajasthan Royals
+f12fe2a1,T Dahiya,male,Kolkata Knight Riders
+725529bc,SC Ganguly,male,Pune Warriors
+7d415ea5,RT Ponting,male,Mumbai Indians
+fd835ab3,DJ Hussey,male,Chennai Super Kings
+9ab63e7b,Mohammad Hafeez,male,Kolkata Knight Riders
+b1451597,LR Shukla,male,Delhi Capitals
+fa463154,AB Agarkar,male,Delhi Capitals
+abfeb126,M Kartik,male,Punjab Kings
+0184dc35,R Dravid,male,Rajasthan Royals
+619aa81f,W Jaffer,male,Royal Challengers Bengaluru
+86dc8f2e,JH Kallis,male,Kolkata Knight Riders
+d0513f63,CL White,male,Sunrisers Hyderabad
+f3cb53a1,MV Boucher,male,Kolkata Knight Riders
+af7dadf7,B Akhil,male,Kochi Tuskers Kerala
+b69e69ed,AA Noffke,male,Royal Challengers Bengaluru
+670709ec,SB Joshi,male,Royal Challengers Bengaluru
+d8699ab7,ML Hayden,male,Chennai Super Kings
+48fd7349,MEK Hussey,male,Chennai Super Kings
+3eac9d95,JDP Oram,male,Mumbai Indians
+3576e47e,S Badrinath,male,Chennai Super Kings
+9f961c14,Joginder Sharma,male,Chennai Super Kings
+6ad3a659,P Amarnath,male,Chennai Super Kings
+4ba44e19,M Muralitharan,male,Royal Challengers Bengaluru
+a1f1829d,K Goel,male,Punjab Kings
+2498e163,JR Hopes,male,Delhi Capitals
+6b71e6cf,KC Sangakkara,male,Sunrisers Hyderabad
+fdedb37c,SM Katich,male,Punjab Kings
+eaa90ab4,P Dharmani,male,Punjab Kings
+dd09ff8e,B Lee,male,Kolkata Knight Riders
+3dba85c2,WA Mota,male,Punjab Kings
+6b8eb6e5,S Sreesanth,male,Rajasthan Royals
+40caa465,T Kohli,male,Punjab Kings
+d84378a4,M Kaif,male,Royal Challengers Bengaluru
+53fe6ee4,DS Lehmann,male,Rajasthan Royals
+de8d3876,M Rawat,male,Pune Warriors
+0264c10e,D Salunkhe,male,Rajasthan Royals
+bb18be76,SK Warne,male,Rajasthan Royals
+3d7e087f,SK Trivedi,male,Rajasthan Royals
+8ba8195d,V Sehwag,male,Punjab Kings
+c42aaf71,M Manhas,male,Chennai Super Kings
+d7c6af50,DL Vettori,male,Royal Challengers Bengaluru
+ab89348d,MF Maharoof,male,Delhi Capitals
+50758325,B Geeves,male,Delhi Capitals
+ee7d0c82,GD McGrath,male,Delhi Capitals
+0fa5042b,L Ronchi,male,Mumbai Indians
+f233bbb4,ST Jayasuriya,male,Mumbai Indians
+7d3937ed,DJ Thornely,male,Mumbai Indians
+0aadc906,PR Shah,male,Rajasthan Royals
+a45a5e8d,AM Nayar,male,Rajasthan Royals
+88fccd6c,SM Pollock,male,Mumbai Indians
+0d232ffd,MA Khote,male,Mumbai Indians
+881a9bdd,S Chanderpaul,male,Royal Challengers Bengaluru
+b61a3e1a,LRPL Taylor,male,Delhi Capitals
+2b6e6dec,AC Gilchrist,male,Punjab Kings
+fe763256,Y Venugopal Rao,male,Sunrisers Hyderabad
+de8cce37,VVS Laxman,male,Kochi Tuskers Kerala
+bd77eb62,A Symonds,male,Mumbai Indians
+57efa3be,SB Styris,male,Chennai Super Kings
+b9be6507,AS Yadav,male,Deccan Chargers
+0604ef16,SB Bangar,male,Kolkata Knight Riders
+bcce309e,WPUJC Vaas,male,Deccan Chargers
+c3d1402f,RP Singh,male,Rising Pune Supergiant
+6c6591ab,PP Ojha,male,Mumbai Indians
+d18f9182,DPMD Jayawardene,male,Delhi Capitals
+3fca55af,S Sohal,male,Deccan Chargers
+ff077124,Kamran Akmal,male,Rajasthan Royals
+e32d22f6,Pankaj Singh,male,Rajasthan Royals
+0dc00542,Shahid Afridi,male,Deccan Chargers
+64c34cd0,Shoaib Malik,male,Delhi Capitals
+e03b66ec,Mohammad Asif,male,Delhi Capitals
+93a17209,VY Mahesh,male,Chennai Super Kings
+38f2c66c,VS Yeligati,male,Mumbai Indians
+94bc776b,D Kalyankrishna,male,Deccan Chargers
+72861603,GC Smith,male,Pune Warriors
+36d33dd0,RR Sarwan,male,Punjab Kings
+034b4b7d,VRV Singh,male,Punjab Kings
+64d43928,Sohail Tanvir,male,Rajasthan Royals
+0c2730df,A Kumble,male,Royal Challengers Bengaluru
+e0351c86,DNT Zoysa,male,Deccan Chargers
+facb9086,SD Chitnis,male,Punjab Kings
+a76d10ba,TM Srivastava,male,Punjab Kings
+c3d35165,JA Morkel,male,Rising Pune Supergiant
+5451a2c1,B Chipli,male,Delhi Capitals
+7050a1e7,DB Das,male,Kolkata Knight Riders
+342d8ade,CRD Fernando,male,Mumbai Indians
+e1d1b294,HH Gibbs,male,Mumbai Indians
+890de8cb,Gagandeep Singh,male,Punjab Kings
+4d6d6280,Salman Butt,male,Kolkata Knight Riders
+b57f8a9a,BJ Hodge,male,Rajasthan Royals
+16dfcc19,Umar Gul,male,Kolkata Knight Riders
+ae091d39,SA Asnodkar,male,Rajasthan Royals
+eea6b7f1,SP Fleming,male,Chennai Super Kings
+756389bd,S Vidyut,male,Chennai Super Kings
+20a941bb,M Ntini,male,Chennai Super Kings
+1be70c88,LPC Silva,male,Deccan Chargers
+b720a5d6,DB Ravi Teja,male,Sunrisers Hyderabad
+acd4f5dc,DP Vijaykumar,male,Deccan Chargers
+7eae4418,Misbah-ul-Haq,male,Royal Challengers Bengaluru
+4e04666c,YV Takawale,male,Royal Challengers Bengaluru
+5f4e9e8f,RR Raje,male,Mumbai Indians
+622cc511,U Kaul,male,Punjab Kings
+f48cf4da,DT Patil,male,Royal Challengers Bengaluru
+95a2ea61,S Anirudha,male,Sunrisers Hyderabad
+cfad138c,CK Kapugedera,male,Chennai Super Kings
+b2b50355,L Balaji,male,Punjab Kings
+e249fdaa,A Chopra,male,Kolkata Knight Riders
+75de770f,T Taibu,male,Kolkata Knight Riders
+f663ef00,J Arunkumar,male,Royal Challengers Bengaluru
+a2870fb7,NK Patel,male,Rajasthan Royals
+d2c2b2d5,SR Tendulkar,male,Mumbai Indians
+5bdcdb72,TM Dilshan,male,Royal Challengers Bengaluru
+3edb58fc,AD Mascarenhas,male,Punjab Kings
+b63ab531,LA Pomersbach,male,Punjab Kings
+10a91f35,Shoaib Akhtar,male,Kolkata Knight Riders
+5d096f3d,RR Powar,male,Punjab Kings
+33cb3411,Younis Khan,male,Rajasthan Royals
+4b4d1957,PM Sarvesh Kumar,male,Deccan Chargers
+c9d33ef5,RV Pawar,male,Mumbai Indians
+888e32bf,Abdur Razzak,male,Royal Challengers Bengaluru
+0ed0cdbf,H Das,male,Deccan Chargers
+2503e881,A Nel,male,Mumbai Indians
+6165bca6,A Mukund,male,Royal Challengers Bengaluru
+ea0cdc12,BAW Mendis,male,Pune Warriors
+ddc0828d,A Flintoff,male,Chennai Super Kings
+b2ae53f5,T Thushara,male,Chennai Super Kings
+0a4ebc61,T Henderson,male,Rajasthan Royals
+6ef60d3a,Kamran Khan,male,Pune Warriors
+91ffa6c6,JD Ryder,male,Pune Warriors
+39f01cdb,KP Pietersen,male,Rising Pune Supergiant
+c404f58a,DP Nannes,male,Chennai Super Kings
+260fd380,AM Salvi,male,Delhi Capitals
+7ca5e05d,RS Bopara,male,Sunrisers Hyderabad
+5f26df4f,VS Malik,male,Rajasthan Royals
+4353bba5,YA Abdulla,male,Punjab Kings
+2a72fd4f,Harmeet Singh,male,Punjab Kings
+a7c226e1,FH Edwards,male,Deccan Chargers
+4d5a1617,R Bishnoi,male,Royal Challengers Bengaluru
+297b26da,Yashpal Singh,male,Kolkata Knight Riders
+25eeb281,PC Valthaty,male,Punjab Kings
+23ac69e6,RJ Quiney,male,Rajasthan Royals
+c69a7b5c,AS Raut,male,Rajasthan Royals
+21ac077a,RR Bose,male,Punjab Kings
+d92e42f5,KP Appanna,male,Royal Challengers Bengaluru
+bff458c6,AA Bilakhia,male,Deccan Chargers
+8a668774,Shoaib Ahmed,male,Deccan Chargers
+7023d182,AN Ghosh,male,Kolkata Knight Riders
+710dd98c,MN van Wyk,male,Kolkata Knight Riders
+05c2ca46,RE van der Merwe,male,Delhi Capitals
+aaa1b522,TL Suman,male,Pune Warriors
+c24a2c5d,S Tyagi,male,Chennai Super Kings
+611926bc,GR Napier,male,Mumbai Indians
+d872f52a,LA Carseldine,male,Rajasthan Royals
+63bff7f9,SM Harwood,male,Rajasthan Royals
+d7a57f75,D du Preez,male,Royal Challengers Bengaluru
+12eddf28,RJ Harris,male,Punjab Kings
+5b040b81,A Singh,male,Rajasthan Royals
+5bb5a915,M Morkel,male,Kolkata Knight Riders
+5056011d,GJ Bailey,male,Rising Pune Supergiant
+f24ca2ba,C Nanda,male,Mumbai Indians
+66cf56a5,A Mithun,male,Royal Challengers Bengaluru
+caa89a48,SS Sarkar,male,Kolkata Knight Riders
+7c503806,J Botha,male,Kolkata Knight Riders
+e186f49c,Mashrafe Mortaza,male,Kolkata Knight Riders
+5f5d3ad4,SS Shaikh,male,Kolkata Knight Riders
+d7b3a420,Jaskaran Singh,male,Deccan Chargers
+16043342,AB McDonald,male,Royal Challengers Bengaluru
+662c47a6,Y Nagar,male,Delhi Capitals
+d1c94b25,CK Langeveldt,male,Royal Challengers Bengaluru
+2bb09eb2,Mohammad Ashraful,male,Mumbai Indians
+7c390b03,RA Shaikh,male,Mumbai Indians
+7bb62642,Anirudh Singh,male,Deccan Chargers
+d4f9dbd4,CA Pujara,male,Punjab Kings
+7bf96684,OA Shah,male,Rajasthan Royals
+626c5379,R Sathish,male,Kolkata Knight Riders
+c654af19,R McLaren,male,Kolkata Knight Riders
+ef5da05c,AG Murtaza,male,Pune Warriors
+2815fe50,AA Jhunjhunwala,male,Deccan Chargers
+2728e7e9,P Dogra,male,Kolkata Knight Riders
+fdcb08c2,A Uniyal,male,Rajasthan Royals
+addfb70e,SW Tait,male,Rajasthan Royals
+5afd4539,MS Bisla,male,Royal Challengers Bengaluru
+9ff100a6,RS Gavaskar,male,Kolkata Knight Riders
+6581d753,JM Kemp,male,Chennai Super Kings
+fb693839,S Ladda,male,Gujarat Lions
+4f629497,SE Bond,male,Kolkata Knight Riders
+11df3dc8,MJ Lumb,male,Deccan Chargers
+69762509,DR Martyn,male,Rajasthan Royals
+287686fd,S Narwal,male,Kolkata Knight Riders
+d3a3e82d,AB Barath,male,Punjab Kings
+2049f3a0,SJ Srivastava,male,Punjab Kings
+c15e2193,FY Fazal,male,Rajasthan Royals
+864c199e,AC Voges,male,Rajasthan Royals
+6afb26d6,MD Mishra,male,Pune Warriors
+5d9a1a73,R Sharma,male,Delhi Capitals
+dec8e038,J Theron,male,Rajasthan Royals
+0f12f9df,NLTC Perera,male,Rising Pune Supergiant
+7daedf2f,KB Arun Karthik,male,Royal Challengers Bengaluru
+78eb4223,KAJ Roach,male,Deccan Chargers
+a386e91b,PD Collingwood,male,Delhi Capitals
+798934ea,C Ganapathy,male,Chennai Super Kings
+86ae8ef2,MB Parmar,male,Kolkata Knight Riders
+45c2196c,DE Bollinger,male,Chennai Super Kings
+dddca1d6,SB Wagh,male,Pune Warriors
+dbc50253,AP Dole,male,Rajasthan Royals
+2af1b6d2,AN Ahmed,male,Royal Challengers Bengaluru
+a3ecf01f,RS Sodhi,male,Punjab Kings
+8b9704ae,L Ablish,male,Punjab Kings
+f4f0fafd,B Sumanth,male,Deccan Chargers
+64a4c383,S Sriram,male,Delhi Capitals
+2eeb4370,C Madan,male,Mumbai Indians
+3a02626a,AG Paunikar,male,Rajasthan Royals
+6ec424a9,ND Doshi,male,Rajasthan Royals
+f5f18a18,S Randiv,male,Chennai Super Kings
+8291f939,AL Menaria,male,Rajasthan Royals
+b2570b38,RV Gomez,male,Pune Warriors
+3ae3f034,AUK Pathan,male,Royal Challengers Bengaluru
+0c94f480,UBT Chand,male,Mumbai Indians
+a84468fe,DJ Jacobs,male,Mumbai Indians
+cf73ad76,JEC Franklin,male,Mumbai Indians
+30e37810,Sunny Singh,male,Punjab Kings
+6042bf26,NJ Rimmington,male,Punjab Kings
+dc4686e6,BA Bhatt,male,Punjab Kings
+b552a935,AC Thomas,male,Pune Warriors
+4ec07775,RN ten Doeschate,male,Kolkata Knight Riders
+6821ac10,JJ van der Wath,male,Royal Challengers Bengaluru
+ce4cc4d5,R Ninan,male,Royal Challengers Bengaluru
+5748e866,TD Paine,male,Pune Warriors
+063b3673,DH Yagnik,male,Rajasthan Royals
+b0c772ee,BJ Haddin,male,Kolkata Knight Riders
+c64c2443,J Syed Mohammad,male,Royal Challengers Bengaluru
+5673a3fc,NL McCullum,male,Pune Warriors
+4180d897,JE Taylor,male,Pune Warriors
+469ea22b,KMDN Kulasekara,male,Chennai Super Kings
+d2d4bb0a,TR Birt,male,Delhi Capitals
+b970a03f,M Klinger,male,Kochi Tuskers Kerala
+0c432afb,P Parameswaran,male,Royal Challengers Bengaluru
+1efb8a28,AC Blizzard,male,Mumbai Indians
+943fd425,I Malhotra,male,Deccan Chargers
+9b4935c8,CJ Ferguson,male,Pune Warriors
+16605a1b,AA Kazi,male,Royal Challengers Bengaluru
+d2340a43,Anand Rajan,male,Sunrisers Hyderabad
+ddb00822,P Prasanth,male,Kochi Tuskers Kerala
+bae11797,Y Gnaneswara Rao,male,Kochi Tuskers Kerala
+29d72eb2,AA Chavan,male,Rajasthan Royals
+90edaaa9,S Rana,male,Royal Challengers Bengaluru
+62e07f92,KH Devdhar,male,Deccan Chargers
+0af3426f,SS Mundhe,male,Pune Warriors
+67af6f81,RW Price,male,Mumbai Indians
+18c78b11,RE Levi,male,Mumbai Indians
+d4eef961,M de Lange,male,Mumbai Indians
+557153ca,KK Cooper,male,Rajasthan Royals
+2e9fdf9b,DAJ Bracewell,male,Delhi Capitals
+39f82db3,DJ Harris,male,Deccan Chargers
+2f3817ce,TP Sudhindra,male,Deccan Chargers
+f708a0bc,GB Hogg,male,Kolkata Knight Riders
+7d3720ba,RR Bhatkal,male,Royal Challengers Bengaluru
+1a0c3177,P Awana,male,Punjab Kings
+d718440b,V Pratap Singh,male,Deccan Chargers
+94eac556,CJ McKay,male,Mumbai Indians
+c9cac448,T Mishra,male,Deccan Chargers
+1c2a64cd,A Ashish Reddy,male,Sunrisers Hyderabad
+addbde6c,N Saini,male,Punjab Kings
+9a158001,Azhar Mahmood,male,Kolkata Knight Riders
+99b202b3,A Chandila,male,Rajasthan Royals
+cca50cd6,LJ Wright,male,Pune Warriors
+26ff4c29,RJ Peterson,male,Mumbai Indians
+de4b0555,R Shukla,male,Delhi Capitals
+53f27a35,BB Samantray,male,Sunrisers Hyderabad
+f842c2cf,MJ Clarke,male,Pune Warriors
+f3171936,BW Hilfenhaus,male,Chennai Super Kings
+2461eef2,PA Reddy,male,Sunrisers Hyderabad
+f4cb4f53,AP Majumdar,male,Pune Warriors
+27e71d47,K Upadhyay,male,Pune Warriors
+ee3dfa89,Sunny Gupta,male,Delhi Capitals
+605b7efa,MC Juneja,male,Delhi Capitals
+f21043a5,MDKJ Perera,male,Rajasthan Royals
+9868bc75,BMAJ Mendis,male,Delhi Capitals
+0bf15e52,Harmeet Singh,male,Rajasthan Royals
+d68e7f48,R Rampaul,male,Royal Challengers Bengaluru
+4c4fa80b,SMSM Senanayake,male,Kolkata Knight Riders
+27af6414,BJ Rohrer,male,Delhi Capitals
+e0407c01,IC Pandey,male,Chennai Super Kings
+30a2649b,CM Gautam,male,Delhi Capitals
+1763bc6c,X Thalaivan Sargunam,male,Sunrisers Hyderabad
+c03c6200,DJG Sammy,male,Royal Challengers Bengaluru
+cedc1d9a,P Suyal,male,Mumbai Indians
+91b9300b,UA Birla,male,Pune Warriors
+6aed7e79,PV Tambe,male,Gujarat Lions
+9170ff49,Parvez Rasool,male,Royal Challengers Bengaluru
+0164b064,MG Neser,male,Punjab Kings
+44afbf2d,NJ Maddinson,male,Royal Challengers Bengaluru
+272d796e,BR Dunk,male,Mumbai Indians
+6f49cc6e,Shivam Sharma,male,Punjab Kings
+6dbcf855,VH Zol,male,Royal Challengers Bengaluru
+531f0278,K Santokie,male,Mumbai Indians
+b56dc5f7,BE Hendricks,male,Punjab Kings
+012829ff,JW Hastings,male,Kolkata Knight Riders
+1647bd37,Karanveer Singh,male,Punjab Kings
+2c76b512,DJ Muthuswami,male,Delhi Capitals
+b2b23612,RG More,male,Chennai Super Kings
+1558d83b,GS Sandhu,male,Delhi Capitals
+9a0146b3,P Sahu,male,Punjab Kings
+a9da7784,KJ Abbott,male,Punjab Kings
+ada15e88,PSP Handscomb,male,Rising Pune Supergiant
+d167edd3,SM Boland,male,Rising Pune Supergiant
+331ea488,UT Khawaja,male,Rising Pune Supergiant
+dce2019b,F Behardien,male,Punjab Kings
+b274dbbd,ER Dwivedi,male,Gujarat Lions

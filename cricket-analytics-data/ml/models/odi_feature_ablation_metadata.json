@@ -1,0 +1,23 @@
+{
+  "method": "chronological_80_20_logistic_regression",
+  "rows": 2440,
+  "train_rows": 1952,
+  "test_rows": 488,
+  "train_start": "2002-06-27",
+  "train_end": "2022-07-27",
+  "test_start": "2022-07-31",
+  "test_end": "2026-08-13",
+  "experiments": [
+    "01_V1_Baseline",
+    "02_Strength",
+    "03_Strength_Plus_Recent_Form",
+    "04_Strength_Form_Plus_Venue",
+    "05_Strength_Form_Venue_Plus_H2H",
+    "06_V2_All_Engineered",
+    "07_V3_All_Engineered"
+  ],
+  "best_roc_auc_experiment": "06_V2_All_Engineered",
+  "best_log_loss_experiment": "06_V2_All_Engineered",
+  "best_brier_experiment": "06_V2_All_Engineered",
+  "best_accuracy_experiment": "05_Strength_Form_Venue_Plus_H2H"
+}
