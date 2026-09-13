@@ -16,9 +16,7 @@ from pydantic import BaseModel, Field
 # PATHS
 # ============================================================
 
-BASE_DIR = Path(
-    r"D:\CricketAnalytics\cricket-analytics-data"
-)
+BASE_DIR = Path(__file__).resolve().parents[2]
 
 MODEL_FILE = (
     BASE_DIR
@@ -40,10 +38,10 @@ PREDICTOR_FILE = (
 # ============================================================
 
 DB_CONFIG = {
-    "host": "localhost",
-    "port": 3306,
-    "database": "cricket_analytics",
-    "user": "root",
+    "host": os.getenv("DB_HOST", "localhost"),
+    "port": int(os.getenv("DB_PORT", "3306")),
+    "database": os.getenv("DB_NAME", "cricket_analytics"),
+    "user": os.getenv("DB_USERNAME", "root"),
     "password": os.getenv("DB_PASSWORD"),
 }
 

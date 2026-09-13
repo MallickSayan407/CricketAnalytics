@@ -65,3 +65,6 @@ cricket-analytics-data/temp_nrr2/
 **/.project
 **/.classpath
 **/.settings/
+
+# Railway local project metadata
+.railway/
